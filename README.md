@@ -8,12 +8,12 @@ Sebuah aplikasi web yang dibangun menggunakan teknologi modern untuk memberikan 
 
 | Technology | Description |
 |------------|-------------|
-| <img src="https://raw.githubusercontent.com/php/web-php/master/images/logos/php-logo.svg" width="40" height="40"> **PHP** | Server-side scripting language untuk backend logic |
-| <img src="https://raw.githubusercontent.com/mysql/mysql-server/8.0/Docs/logo-mysql-170x115.png" width="40" height="40"> **MySQL** | Relational database management system |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"> **HTML5** | Markup language untuk struktur halaman web |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"> **CSS3** | Stylesheet language untuk styling dan layout |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"> **JavaScript** | Programming language untuk interaktivitas frontend |
-| <img src="https://raw.githubusercontent.com/twbs/bootstrap/main/site/static/docs/5.3/assets/brand/bootstrap-logo.svg" width="40" height="40"> **Bootstrap** | CSS framework untuk responsive design |
+| <img src="https://raw.githubusercontent.com/php/web-php/master/images/logos/php-logo.svg" width="40" height="40"> | Server-side scripting language untuk backend logic |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"> | Relational database management system |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"> | Markup language untuk struktur halaman web |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"> | Stylesheet language untuk styling dan layout |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"> | Programming language untuk interaktivitas frontend |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"> | CSS framework untuk responsive design |
 
 </div>
 
@@ -87,6 +87,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - muhammadraihan291003@gmail.com
+Your Name - your.email@example.com
 
 Project Link: [https://github.com/username/project-name](https://github.com/username/project-name)
