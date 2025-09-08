@@ -87,6 +87,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - muhammadraihan291003@gmail.com
 
 Project Link: [https://github.com/username/project-name](https://github.com/username/project-name)
